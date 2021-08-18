@@ -8,7 +8,6 @@ import javax.persistence.Embeddable;
 //@Embedded: 값 타입을 사용하는 곳에 표시
 @Getter
 public class Address {
-
     private String city;
     private String street;
     private String zipcode;
